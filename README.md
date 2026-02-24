@@ -38,7 +38,7 @@ I build scalable backend systems, modern web applications, and data-driven produ
 ---
 
 ## 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=AntNamphol&show_icons=true&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats-tau-indol-fj2s440cta.vercel.app/api?username=AntNamphol&show_icons=true&hide_border=true)
 
 ---
 
