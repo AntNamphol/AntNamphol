@@ -1,53 +1,58 @@
-# Hi, I'm Ant 👋
+# Ant Namphol
 
-Data Engineer with hands-on experience in building data pipelines  
-and currently working on Full Stack projects.
-
-📍 Bangkok, Thailand
+Full Stack Engineer with a strong Data Engineering background.  
+I build scalable backend systems, modern web applications, and data-driven products.
 
 ---
 
-## 🧩 What I Do
-- Design & build **ETL / Data Pipelines**
-- Work with **APIs, Databases, and Automation**
-- Develop **Full Stack applications** (Backend & Frontend)
-- Focus on clean, maintainable, and scalable systems
+## 🧠 Focus
+- Full Stack Web Applications
+- Backend Systems & APIs
+- Data Pipelines & Automation
+- System Design & Scalability
 
 ---
 
-## 🛠 Tech Stack
-**Data / Backend**
+## ⚙️ Tech
+**Backend**
 - Python
-- Go
 - Node.js
+- Go
 
 **Frontend**
 - Next.js
 
-**Database & Tools**
+**Data & Infrastructure**
 - PostgreSQL, SQL Server
 - Docker
-- Git, GitHub Actions
+- Git & GitHub Actions
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntNamphol&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntNamphol&layout=compact&hide_border=true)
+## 🧩 What I Build
+- End-to-end **Full Stack applications**
+- REST / API-driven systems
+- Data ingestion & transformation pipelines
+- Internal tools & automation scripts
 
 ---
 
-## 📌 Featured Projects
-- **Data Pipeline Projects** – API ingestion, transformation, and loading
-- **Full Stack Applications** – Next.js frontend with backend services
-- **Automation & Scripts** – Improve data workflows and productivity
+## 📊 GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=AntNamphol&show_icons=true&hide_title=true&hide_border=true&theme=default)
 
-_(Pinned repositories below 👇)_
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntNamphol&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 📌 Selected Work
+Pinned repositories below represent:
+- Full Stack projects (Frontend + Backend)
+- Data-centric systems
+- Production-oriented codebases
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/AntNamphol
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
+- GitHub → https://github.com/AntNamphol  
+- Email → wongstorn.np@gmail.com 
+- LinkedIn → your-linkedin-url
